@@ -24,7 +24,7 @@ public class TestStack {
         System.out.println(st.search(24));
         System.out.println(st);
         System.out.println("------------------先进后出");
-        System.out.println(st.pop());
+        System.out.println(st.pop());//取出栈中的值,那么栈中的元素就变少了。
         System.out.println(st);
         System.out.println(st.empty());
     }
