@@ -21,7 +21,7 @@ public class Main {
     // 初始化块
     {
         System.out.println(field);
-        System.out.println("初始化块");
+        System.out.println("初始化块再次得到了真传");
     }
 
     // 构造器
