@@ -26,7 +26,7 @@ public class Main {
 
     // 构造器
     public Main() {
-        System.out.println("构造器");
+        System.out.println("构造器是好的成功没");
     }
 
     public static void main(String[] args) {
